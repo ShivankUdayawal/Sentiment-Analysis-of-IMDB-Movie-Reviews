@@ -1,12 +1,15 @@
 # Sentiment-Analysis-of-IMDB-Movie-Reviews
-Predicting the number of positive &amp; Negative Reviews based on Sentiments 
+### Predicting the number of positive &amp; Negative Reviews based on Sentiments 
 
 ## Introduction :
-The IMDb Movie Reviews dataset is a binary sentiment analysis dataset consisting of 50,000 reviews from the Internet Movie Database (IMDb) labeled as positive or negative. The dataset contains an even number of positive and negative reviews. Only highly polarizing reviews are considered.
+The IMDb Movie Reviews dataset is a binary sentiment analysis dataset consisting of 50,000 reviews from the Internet Movie Database (IMDb) labeled as positive or negative. 
+The dataset contains an even number of positive and negative reviews. Only highly polarizing reviews are considered.
 IMDB dataset having 50K movie reviews for Natural Language Processing or Text Analytics.
 
 ### About Dataset :
-This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. Provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. So, predict the number of positive and negative reviews using either classification or deep learning algorithms.
+This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. 
+Provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. 
+So, predict the number of positive and negative reviews using either classification or deep learning algorithms.
 
 
 

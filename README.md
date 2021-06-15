@@ -21,5 +21,7 @@ So, predict the number of positive and negative reviews using either classificat
 
 ![](https://github.com/ShivankUdayawal/Sentiment-Analysis-of-IMDB-Movie-Reviews/blob/main/Images/shutterstock_1073953772.jpg)
 
+![](https://github.com/ShivankUdayawal/Sentiment-Analysis-of-IMDB-Movie-Reviews/blob/main/Images/Screenshot%202021-06-15%20194543.jpg)
+
 
 ### Dataset Source : https://ai.stanford.edu/~amaas/data/sentiment/
